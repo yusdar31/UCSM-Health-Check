@@ -10,8 +10,7 @@
 ---
 
 ## Overview
-<img width="1871" height="775" alt="image" src="https://github.com/user-attachments/assets/6e7a9c79-7a23-47b7-a21a-3c90e29b5881" />
-
+<img width="1951" height="806" alt="ChatGPT Image Jul 24, 2026, 05_59_20 PM" src="https://github.com/user-attachments/assets/6b1774f3-bb82-4092-8b6f-e197dbf43d62" />
 
 Cisco UCS Health Check is a PowerShell-based reporting tool that collects inventory and health information directly from **Cisco UCS Manager** using **Cisco UCS PowerTool**.
 
